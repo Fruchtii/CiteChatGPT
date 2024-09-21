@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "CiteChatGPT",
   "version": "1.0",
   "description": "Generate citations for ChatGPT conversations",
